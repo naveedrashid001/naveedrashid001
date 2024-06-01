@@ -1,4 +1,4 @@
-![logo](https://github.com/naveedrashid001/naveedrashid001/blob/main/profile-baner.jpg)
+![logo](https://github.com/naveedrashid001/naveedrashid001/blob/main/baner-profile.jpg)
 <h1 align="center">Hi 👋, I'm Naveed Rashid</h1>
 <h3 align="center">A passionate backend developer from pakistan</h3>
 
